@@ -18,3 +18,7 @@ body {
 .uch {
     border-radius: 10px;
 }
+
+.test {
+    border: 2px dotted #ff0000;
+}
